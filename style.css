@@ -1,0 +1,32 @@
+*{
+    box-sizing: border-box;
+}
+.left{
+    width: 50%;
+    height: 100vh;
+    background-color: rgb(0, 0, 0);
+    padding-top: 200px;
+    
+    float: left;
+}
+.left img{
+    width: 100%;
+    
+}
+.right{
+    float: left;
+    height: 100%;
+    width: 50%;
+    background: #7e1416;
+    box-sizing: border-box;
+    text-align: center;
+    padding-top: 230px;
+}
+.form{
+    margin: 7px;
+    padding: 10px;
+    border-radius: 10%;
+}
+.right img{
+    width: 400px;
+}
